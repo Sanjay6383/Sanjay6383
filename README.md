@@ -70,8 +70,6 @@ I'm passionate about software development, problem-solving, and building practic
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-**Other Technologies:** REST APIs, Chart.js, OpenCV, OCR, Gemini API, bcrypt, Express Sessions.
-
 ---
 
 ## 🚀 Featured Projects
