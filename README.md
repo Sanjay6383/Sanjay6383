@@ -136,16 +136,6 @@ A team-based NGO project focused on project tracking, inventory, and resource ma
 
 </div>
 
-### Coding Achievements
-
-| Platform | Achievement |
-| :--- | :--- |
-| LeetCode | 800+ problems solved |
-| LeetCode | 1780 contest rating |
-| LeetCode | Top 10% globally |
-| CodeChef | 2-Star (1467 rating) |
-| CodeChef | Highest global rank: 868 |
-
 ---
 
 ## 🏆 Achievements
