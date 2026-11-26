@@ -102,17 +102,13 @@ A team-based NGO project focused on project tracking, inventory, and resource ma
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjay6383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sanjay6383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay6383&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Sanjay6383&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay6383&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay6383&theme=tokyo-night&hide_border=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=Sanjay6383&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -122,10 +118,8 @@ A team-based NGO project focused on project tracking, inventory, and resource ma
 
 <div align="center">
 
-### LeetCode
-
 <a href="https://leetcode.com/u/Sanjay_V_17/">
-<img src="https://leetcard.jacoblin.cool/Sanjay_V_17?theme=dark&font=Fira%20Code&ext=contest" width="80%" alt="LeetCode Statistics" />
+<img height="160" src="https://leetcard.jacoblin.cool/Sanjay_V_17?theme=dark&font=Fira%20Code&ext=contest" />
 </a>
 
 <br/>
@@ -141,7 +135,6 @@ A team-based NGO project focused on project tracking, inventory, and resource ma
 | CodeChef | Highest global rank: 868 |
 
 </div>
-
 ---
 
 ## 🏆 Achievements
