@@ -1,8 +1,9 @@
- <!-- Profile Header -->
+ 
+<!-- Profile Header -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sanjay%20V&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sanjay%20V&fontSize=55&fontColor=ffffff&fontAlignY=45" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com/">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student;Full+Stack+Web+Developer;Software+Development+Enthusiast;Problem+Solver+%7C+800%2B+LeetCode+Problems" alt="Typing SVG" />
@@ -38,26 +39,39 @@ I'm passionate about software development, problem-solving, and building practic
 
 ### Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=java" width="22" /> Java &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="22" /> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" width="22" /> C &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="22" /> JavaScript
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" width="22" /> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="22" /> CSS
 </p>
 
 ### Frameworks and Libraries
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<p>
+<img src="https://skillicons.dev/icons?i=react" width="22" /> React.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="22" /> Node.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="22" /> Express.js
 </p>
 
 ### Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" width="22" /> MySQL &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="22" /> MongoDB
 </p>
 
 ### Tools and Technologies
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="22" /> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="22" /> GitHub &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="22" /> VS Code
 </p>
 
 **Other Technologies:** REST APIs, Chart.js, OpenCV, OCR, Gemini API, bcrypt, Express Sessions.
@@ -98,31 +112,32 @@ A team-based NGO project focused on project tracking, inventory, and resource ma
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub & LeetCode Statistics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sanjay6383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay6383&layout=compact&theme=tokyonight&hide_border=true" />
+**GitHub Statistics**
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay6383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
 
-<img height="160" src="https://streak-stats.demolab.com?user=Sanjay6383&theme=tokyonight&hide_border=true" />
+</td>
+<td width="50%" align="center">
 
-</div>
-
----
-
-## 🧩 Problem Solving & Competitive Programming
-
-<div align="center">
+**LeetCode Statistics**
 
 <a href="https://leetcode.com/u/Sanjay_V_17/">
-<img height="160" src="https://leetcard.jacoblin.cool/Sanjay_V_17?theme=dark&font=Fira%20Code&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Sanjay_V_17?theme=dark&font=Fira%20Code&ext=contest" width="100%" />
 </a>
 
-<br/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ### Coding Achievements
 
@@ -134,7 +149,6 @@ A team-based NGO project focused on project tracking, inventory, and resource ma
 | CodeChef | 2-Star (1467 rating) |
 | CodeChef | Highest global rank: 868 |
 
-</div>
 ---
 
 ## 🏆 Achievements
@@ -168,18 +182,7 @@ Bachelor of Engineering – Computer Science and Engineering
 
 ---
 
-## 📫 Connect With Me
-
-I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
-
 <div align="center">
-
-<a href="mailto:sanjai12sa@gmail.com">Email</a> •
-<a href="https://github.com/Sanjay6383">GitHub</a> •
-<a href="https://linkedin.com/in/sanjay-v-bb8421291">LinkedIn</a> •
-<a href="https://leetcode.com/u/Sanjay_V_17/">LeetCode</a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
 
