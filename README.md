@@ -131,7 +131,7 @@ A team-based NGO project focused on project tracking, inventory, and resource ma
 <div align="center">
 
 <a href="https://leetcode.com/u/Sanjay_V_17/">
-<img src="https://leetcard.jacoblin.cool/Sanjay_V_17?theme=dark&font=Fira%20Code&ext=contest" width="65%" />
+<img src="https://leetcard.jacoblin.cool/Sanjay_V_17?theme=dark&font=Fira%20Code&ext=contest" width="55%" />
 </a>
 
 </div>
