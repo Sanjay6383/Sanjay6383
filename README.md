@@ -1,16 +1,195 @@
-## Hi there 👋
+ <!-- Profile Header -->
 
-<!--
-**Sanjay6383/Sanjay6383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sanjay%20V&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Final+Year+CSE+Student;Full+Stack+Web+Developer;Software+Development+Enthusiast;Problem+Solver+%7C+800%2B+LeetCode+Problems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="mailto:sanjai12sa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Sanjay6383"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sanjay-v-bb8421291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Sanjay_V_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Sanjay V**, a final-year Computer Science and Engineering student at **Chennai Institute of Technology and Applied Research**, graduating in 2027.
+
+I'm passionate about software development, problem-solving, and building practical applications that solve real-world problems.
+
+- 🎓 Pursuing B.E. in Computer Science and Engineering.
+- 💻 Interested in software development.
+- 🧠 Solved 800+ problems on LeetCode, with a contest rating of 1780.
+- 🏆 LeetCode Top 10% globally and CodeChef 2-Star.
+- 🤝 Participated in JPMC Code for Good Hackathon, Bangalore 2025.
+- 🌱 Continuously learning new technologies and improving problem-solving skills.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
+</p>
+
+### Frameworks and Libraries
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools and Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+**Other Technologies:** REST APIs, Chart.js, OpenCV, OCR, Gemini API, bcrypt, Express Sessions.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Budget Tracker
+
+**Tech Stack:** HTML | CSS | JavaScript | Node.js | Express.js | MySQL | Chart.js | Gemini API
+
+A full-stack personal finance application for managing income, expenses, and savings.
+
+- Developed REST APIs for authentication and income/expense CRUD operations with MySQL integration and bcrypt password hashing.
+- Built financial dashboards with daily/monthly tracking, savings calculations, Chart.js visualizations, and downloadable reports.
+- Integrated a Gemini-powered chatbot using a RAG-style approach to generate personalized financial insights from user data.
+
+### 2. EduTrack – Student Activity Management System
+
+**Tech Stack:** HTML | CSS | JavaScript | Node.js | Express.js | MySQL | OpenCV | OCR
+
+A centralized platform for managing student achievements and automating certificate verification.
+
+- Developed REST APIs for student achievement uploads, staff verification, and centralized record management.
+- Automated certificate processing using OpenCV, QR-code detection, and OCR-based text extraction.
+- Generated digital portfolios and institutional analytics reports using verified student records for NAAC/AICTE documentation.
+
+### 3. Code for Good – VisionSpring NGO Project
+
+**Tech Stack:** Node.js | Express.js | MySQL
+
+A team-based NGO project focused on project tracking, inventory, and resource management.
+
+- Developed backend functionality and REST APIs for project and inventory management.
+- Designed relational MySQL schemas for projects, inventory, frame listings, camp orders, and resources.
+- Implemented CRUD operations to support database-driven application workflows.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjay6383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay6383&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Sanjay6383&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay6383&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🧩 Problem Solving & Competitive Programming
+
+<div align="center">
+
+### LeetCode
+
+<a href="https://leetcode.com/u/Sanjay_V_17/">
+<img src="https://leetcard.jacoblin.cool/Sanjay_V_17?theme=dark&font=Fira%20Code&ext=contest" width="80%" alt="LeetCode Statistics" />
+</a>
+
+<br/>
+
+### Coding Achievements
+
+| Platform | Achievement |
+| :--- | :--- |
+| LeetCode | 800+ problems solved |
+| LeetCode | 1780 contest rating |
+| LeetCode | Top 10% globally |
+| CodeChef | 2-Star (1467 rating) |
+| CodeChef | Highest global rank: 868 |
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **LeetCode:** Ranked among the top 10% globally with a contest rating of 1780.
+- 💡 **Problem Solving:** Solved more than 800 problems on LeetCode.
+- ⭐ **CodeChef:** Achieved a 2-Star rating with a highest global rank of 868 in rated contests.
+- 🚀 **Hackathon:** Participated in JPMC Code for Good Hackathon, Bangalore, 2025, working on an NGO solution for VisionSpring.
+
+---
+
+## 🤝 Leadership & Volunteer Experience
+
+### Event Coordinator – Duo Developers
+
+- Organized a two-phase technical competition featuring an MCQ-based screening round followed by a competitive programming round.
+- Collaborated with peers to coordinate event logistics, registrations, timelines, and operations.
+- Developed teamwork, communication, and event management skills through active coordination with faculty and participants.
+
+---
+
+## 🎓 Education
+
+**Chennai Institute of Technology and Applied Research**
+
+Bachelor of Engineering – Computer Science and Engineering
+
+📅 2023 – 2027
+
+**CGPA: 8.61**
+
+---
+
+## 📫 Connect With Me
+
+I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+
+<div align="center">
+
+<a href="mailto:sanjai12sa@gmail.com">Email</a> •
+<a href="https://github.com/Sanjay6383">GitHub</a> •
+<a href="https://linkedin.com/in/sanjay-v-bb8421291">LinkedIn</a> •
+<a href="https://leetcode.com/u/Sanjay_V_17/">LeetCode</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+
+**Thanks for visiting my profile! Happy Coding! 🚀**
+
+</div>
