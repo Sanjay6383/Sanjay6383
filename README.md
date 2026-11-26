@@ -1,4 +1,4 @@
- 
+
 <!-- Profile Header -->
 
 <div align="center">
@@ -12,7 +12,6 @@
 <br/>
 
 <a href="mailto:sanjai12sa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Sanjay6383"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/sanjay-v-bb8421291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Sanjay_V_17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
@@ -40,38 +39,35 @@ I'm passionate about software development, problem-solving, and building practic
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" width="22" /> Java &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="22" /> Python &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c" width="22" /> C &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="22" /> JavaScript
-</p>
-
-<p>
-<img src="https://skillicons.dev/icons?i=html" width="22" /> HTML &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="22" /> CSS
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Frameworks and Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react" width="22" /> React.js &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="22" /> Node.js &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="22" /> Express.js
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" width="22" /> MySQL &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="22" /> MongoDB
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### Tools and Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git" width="22" /> Git &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="22" /> GitHub &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="22" /> VS Code
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 **Other Technologies:** REST APIs, Chart.js, OpenCV, OCR, Gemini API, bcrypt, Express Sessions.
@@ -112,30 +108,31 @@ A team-based NGO project focused on project tracking, inventory, and resource ma
 
 ---
 
-## 📊 GitHub & LeetCode Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sanjay6383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-**GitHub Statistics**
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay6383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay6383&layout=compact&theme=tokyonight&hide_border=true" />
 
-</td>
-<td width="50%" align="center">
+<br/>
 
-**LeetCode Statistics**
+<img height="165" src="https://streak-stats.demolab.com?user=Sanjay6383&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧩 LeetCode Statistics
+
+<div align="center">
 
 <a href="https://leetcode.com/u/Sanjay_V_17/">
-<img src="https://leetcard.jacoblin.cool/Sanjay_V_17?theme=dark&font=Fira%20Code&ext=contest" width="100%" />
+<img src="https://leetcard.jacoblin.cool/Sanjay_V_17?theme=dark&font=Fira%20Code&ext=contest" width="65%" />
 </a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -189,3 +186,4 @@ Bachelor of Engineering – Computer Science and Engineering
 **Thanks for visiting my profile! Happy Coding! 🚀**
 
 </div>
+
